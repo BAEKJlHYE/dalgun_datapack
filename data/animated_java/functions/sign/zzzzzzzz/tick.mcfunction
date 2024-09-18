@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.sign.root] run function animated_java:sign/zzzzzzzz/tick_as_root

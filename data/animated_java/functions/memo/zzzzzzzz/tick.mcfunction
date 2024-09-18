@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.memo.root] run function animated_java:memo/zzzzzzzz/tick_as_root

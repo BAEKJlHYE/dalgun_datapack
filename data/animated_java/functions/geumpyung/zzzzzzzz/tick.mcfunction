@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.geumpyung.root] run function animated_java:geumpyung/zzzzzzzz/tick_as_root

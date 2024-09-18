@@ -1,0 +1,2 @@
+execute if entity @s[tag=aj.memo.root] run function animated_java:memo/zzzzzzzz/remove/as_root
+execute if entity @s[tag=!aj.memo.root] run tellraw @a ["",{"text":"["},{"text":"Animated Java","color":"aqua"},{"text":"] "},{"text":"ERROR ☠","color":"red"},{"text":" > ","color":"gray"},[{"text":"The function","color":"yellow"},{"text":" animated_java:memo/remove/this ","color":"blue"},{"text":"must be run"},{"text":" as ","color":"red"},{"text":"the root entity!"}]]

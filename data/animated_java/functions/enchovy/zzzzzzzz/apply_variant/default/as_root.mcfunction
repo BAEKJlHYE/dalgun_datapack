@@ -1,0 +1,1 @@
+function animated_java:enchovy/zzzzzzzz/apply_variant/default/as_bone

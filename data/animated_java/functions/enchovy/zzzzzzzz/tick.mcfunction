@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.enchovy.root] run function animated_java:enchovy/zzzzzzzz/tick_as_root

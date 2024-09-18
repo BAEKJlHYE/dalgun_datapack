@@ -1,0 +1,1 @@
+execute as @a[scores={break_pot=1..}] run function pots:varify_pot

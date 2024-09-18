@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.velvet.root] run function animated_java:velvet/zzzzzzzz/tick_as_root
