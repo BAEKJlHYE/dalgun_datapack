@@ -61,3 +61,5 @@ summon minecraft:interaction -4 63 357 {Tags:["eutnuh_doll_interaction"]}
 
 # 인형 아이템 제공
 function dolls:give
+
+# 테스트
