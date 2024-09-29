@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.elevator_button_2.root] run function animated_java:elevator_button_2/zzzzzzzz/tick_as_root
