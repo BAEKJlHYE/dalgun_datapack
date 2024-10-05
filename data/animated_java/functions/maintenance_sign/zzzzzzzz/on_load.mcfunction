@@ -1,0 +1,2 @@
+scoreboard players set @s aj.maintenance_sign.rig_loaded 1
+execute unless score @s aj.maintenance_sign.export_version = aj.maintenance_sign.export_version aj.i at @s run function animated_java:maintenance_sign/zzzzzzzz/mark_outdated_rig

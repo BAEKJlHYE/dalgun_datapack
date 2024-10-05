@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.maintenance_sign.root] run function animated_java:maintenance_sign/zzzzzzzz/tick_as_root

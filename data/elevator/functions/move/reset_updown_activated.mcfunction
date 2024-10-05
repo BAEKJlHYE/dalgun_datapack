@@ -1,1 +1,0 @@
-setblock 21 63 365 minecraft:redstone_block

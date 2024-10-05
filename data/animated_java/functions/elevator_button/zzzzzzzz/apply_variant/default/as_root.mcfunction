@@ -1,1 +1,0 @@
-function animated_java:elevator_button/zzzzzzzz/apply_variant/default/as_bone

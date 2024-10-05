@@ -1,0 +1,2 @@
+execute if entity @s[tag=aj.maintenance_sign.bone.group] run data modify entity @s item.tag.CustomModelData set value 2
+execute if entity @s[tag=aj.maintenance_sign.bone.bone] run data modify entity @s item.tag.CustomModelData set value 3
