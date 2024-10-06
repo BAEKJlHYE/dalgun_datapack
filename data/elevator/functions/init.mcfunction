@@ -1,6 +1,13 @@
 scoreboard objectives add elevator_move_timer dummy
 scoreboard players set @a elevator_move_timer 0
 
+scoreboard objectives add elevator_up_down dummy
+scoreboard players set @a elevator_up_down -1
+
+scoreboard objectives add elevator_on_off dummy
+scoreboard players set @a elevator_on_off -1
+
+
 kill @e[tag=elva_up]
 kill @e[tag=elva_down]
 

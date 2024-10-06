@@ -1,6 +1,13 @@
 {
 	"replace": false,
 	"values": [
-		"animated_java:tick"
+		"animated_java:tick",
+		"elevator:detect",
+		"elevator:add_tick",
+		"elevator:up",
+		"elevator:down",
+		"dolls:click_doll_interaction",
+		"loading:loading",
+		"loading:add_tick"
 	]
 }
